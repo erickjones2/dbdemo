@@ -1,4 +1,4 @@
--- dummy comment 7
+-- dummy comment 8
 CREATE OR REPLACE PACKAGE BODY nice.cust_sal AS  
 -----------------------------------------------------------------------------------------------------          
 --
